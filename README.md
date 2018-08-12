@@ -11,5 +11,12 @@ You can use this code to fiind CEO / CFO email addresses, or any other corporate
 
 It crawl the first 10 pages of Google Search for all publicly available email addresses. Use it like a corporate email address lookup
 
+How To Use -
+
+1. Run the python script (You should have chromedriver.exe pasted in your C:\ drive )
+2. It will ask for company name , give in this format - mail@company_name.com
+3. It will print out all the publicily available results.
+
+
 
 
